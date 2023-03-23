@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_12378752"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-12-05:16:23)
+    (utime 2023-01-27-16:50:03)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "PJ-031D")
+)
+
+
+(pinAssign "ECS_12378752"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-12-05:16:23)
+    (utime 2023-01-27-16:50:03)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_12378752")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PJ-031D")
+)
+
+
+(part "PJ-031D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-12-05:16:23)
+    (utime 2023-01-27-16:50:03)
+    (packageRef "PJ-031D")
+    (pinAssignRef "ECS_12378752")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "DC Power Connectors Power Jacks")
+    (property "Mouser_Part_Number" "490-PJ-031D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-031D?qs=WyjlAZoYn50d9FnDq%252BXSgg%3D%3D")
+    (property "Manufacturer_Name" "CUI Devices")
+    (property "Manufacturer_Part_Number" "PJ-031D")
+    (property "Datasheet_Link" "https://www.cuidevices.com/product/resource/pdf/pj-031d.pdf")
+    (property "compAreaTopHeight" 7.6)
+)
+
+

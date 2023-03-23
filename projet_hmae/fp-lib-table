@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "DM3CS-SF")(type "KiCad")(uri "/mnt/data/Documents/A4/HMAE/projet/components/DM3CS-SF/KiCad")(options "")(descr ""))
+  (lib (name "MJ-3502")(type "KiCad")(uri "/mnt/data/Documents/A4/HMAE/projet/components/MJ-3502/KiCad")(options "")(descr ""))
+  (lib (name "PJ-031D")(type "KiCad")(uri "/mnt/data/Documents/A4/HMAE/projet/components/PJ-031D/KiCad")(options "")(descr ""))
+  (lib (name "LM386")(type "KiCad")(uri "/mnt/data/Documents/A4/HMAE/projet/components/LM386")(options "")(descr ""))
+)

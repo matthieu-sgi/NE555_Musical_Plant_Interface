@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PJ_031D'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Devices", "PJ-031D" (!) = "", "PJ031D", "Other", "490-PJ-031D", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-031D?qs=WyjlAZoYn50d9FnDq%252BXSgg%3D%3D", "DC Power Connectors Power Jacks", "https://www.cuidevices.com/product/resource/pdf/pj-031d.pdf", "7.6 mm"
+END_PART
+
+END.

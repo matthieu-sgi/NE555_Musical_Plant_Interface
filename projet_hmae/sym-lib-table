@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "DM3CS-SF")(type "Legacy")(uri "/mnt/data/Documents/A4/HMAE/projet/components/DM3CS-SF/KiCad/DM3CS-SF.lib")(options "")(descr ""))
+  (lib (name "MJ-3502")(type "Legacy")(uri "/mnt/data/Documents/A4/HMAE/projet/components/MJ-3502/KiCad/MJ-3502.lib")(options "")(descr ""))
+  (lib (name "PJ-031D")(type "Legacy")(uri "/mnt/data/Documents/A4/HMAE/projet/components/PJ-031D/KiCad/PJ-031D.lib")(options "")(descr ""))
+  (lib (name "LM386N-3_NOPB")(type "KiCad")(uri "/mnt/data/Documents/A4/HMAE/projet/components/LM386/LM386N-3_NOPB.kicad_sym")(options "")(descr ""))
+)

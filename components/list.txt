@@ -1,0 +1,8 @@
+Micro SD slot : 
+https://www.mouser.fr/ProductDetail/Hirose-Connector/DM3CS-SF?qs=tTj%252BmQ3KZwbB9K5zh89Rcw%3D%3D
+
+Jack 3.5 THT :
+https://www.mouser.fr/ProductDetail/CUI-Devices/MJ-3502?qs=WyjlAZoYn50fBk6kEetS8g%3D%3D
+
+Barrel Jack:
+https://www.mouser.fr/ProductDetail/CUI-Devices/PJ-031D?qs=WyjlAZoYn50d9FnDq%252BXSgg%3D%3D
